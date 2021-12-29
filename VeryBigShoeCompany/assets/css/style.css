@@ -1,0 +1,184 @@
+﻿
+@import url('https://fonts.googleapis.com/css2?family=Licorice&family=Sacramento&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap");
+
+.aBrandName {
+ font-family: 'Sacramento', cursive;
+ color: #000000;
+ font-size: 40px;
+ text-decoration: none;
+}
+
+.marginLeft13 {
+ margin-left: 13px;
+}
+
+.marginTop_14 {
+ margin-top: -14px;
+}
+
+.paddingTop0{
+ padding-top:0;
+}
+
+.navbar > .container-fluid {
+ display: initial;
+ text-align: center;
+}
+
+body, html, form {
+ height: 100%;
+}
+
+.marginTop25VH {
+ margin-top: 25vh;
+}
+
+.borderBottomNone {
+ border-bottom: none;
+}
+
+.fontSize14 {
+ font-size: 14px;
+}
+
+.cta-submit {
+ background: #1A5757;
+ -webkit-border-radius: 100px;
+ -moz-border-radius: 100px;
+ border-radius: 100px;
+ border: 1px solid #1A5757;
+ font-family: "Roboto",Helvetica,Arial,sans-serif;
+ font-size: 12px;
+ font-weight: 700;
+ text-transform: uppercase;
+ letter-spacing: 1px;
+ padding: 10px;
+ color: #fff;
+ text-decoration: none;
+ display: inline-block;
+ cursor: pointer;
+ text-align: center;
+ width: 100%;
+ height: 40px;
+ margin-top: 20px;
+ margin-bottom: 0;
+}
+
+ .cta-submit:hover {
+  background: #03141C;
+  border: 1px solid #03141C;
+  -webkit-border-radius: 100px;
+  -moz-border-radius: 100px;
+  border-radius: 100px;
+  text-decoration: none;
+  color: #fff;
+ }
+
+/*/// index.aspx ///*/
+.indexPage {
+ background-image: url(../img/imgShoeJump.jpg);
+ height: 100%;
+ background-position: center;
+ background-repeat: no-repeat;
+ background-size: cover;
+ color: #ffffff;
+ opacity: 0.8;
+}
+
+.divProcessing {
+ position: absolute;
+ left: 0;
+ top: 50%;
+ width: 100%;
+ text-align: center;
+ color: #000;
+ display: flex;
+ justify-content: center;
+ flex-wrap: wrap;
+}
+
+.textAlignLeft {
+ text-align: left;
+}
+
+.cmdUploadFile {
+ border: 1px solid #cccccc;
+ background-color: #ffffff;
+ border-radius: 5px;
+ width: 162px;
+}
+
+.marginLeft10 {
+ margin-left: 10px;
+}
+
+.width20P {
+ width: 20%;
+}
+
+
+/*/// orderDetails.aspx ///*/
+.pnlNoItems {
+ text-align: center;
+ border-top: 1px solid #cccccc;
+ padding-top: 15px;
+ font-size: 18px;
+}
+
+.textAlignRight {
+ text-align: right;
+}
+
+.displayNone {
+ display: none;
+}
+
+.table-title {
+ font-family: "Roboto", Helvetica, Arial, sans-serif;
+ font-size: 12px;
+ font-weight: 900;
+ padding-left: 0px;
+ padding-right: 0px;
+ padding-top: 0px;
+ padding-bottom: 0px;
+ color: #444444;
+ line-height: 1.4em;
+ text-transform: uppercase;
+}
+
+.table-subtitle {
+ font-family: "Roboto", Helvetica, Arial, sans-serif;
+ font-size: 12px;
+ font-weight: 400;
+ padding-left: 0px;
+ padding-right: 0px;
+ padding-top: 0px;
+ padding-bottom: 0px;
+ color: #444444;
+ line-height: 1.4em;
+}
+
+.marginTop30 {
+ margin-top: 30px;
+}
+
+.floatLeft {
+ float: left;
+}
+
+.floatRight {
+ float: right;
+}
+
+.centeredText {
+ text-align: center;
+}
+
+.blackColor {
+ color: #000000;
+}
+
+.textDecorationNone {
+ text-decoration: none;
+}

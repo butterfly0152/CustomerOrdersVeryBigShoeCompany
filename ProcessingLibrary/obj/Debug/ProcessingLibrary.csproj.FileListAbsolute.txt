@@ -1,0 +1,6 @@
+C:\Users\Adelina\OneDrive\Desktop\VeryBigShoeCompany\ProcessingLibrary\bin\Debug\ProcessingLibrary.dll
+C:\Users\Adelina\OneDrive\Desktop\VeryBigShoeCompany\ProcessingLibrary\bin\Debug\ProcessingLibrary.pdb
+C:\Users\Adelina\OneDrive\Desktop\VeryBigShoeCompany\ProcessingLibrary\obj\Debug\ProcessingLibrary.csprojAssemblyReference.cache
+C:\Users\Adelina\OneDrive\Desktop\VeryBigShoeCompany\ProcessingLibrary\obj\Debug\ProcessingLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Adelina\OneDrive\Desktop\VeryBigShoeCompany\ProcessingLibrary\obj\Debug\ProcessingLibrary.dll
+C:\Users\Adelina\OneDrive\Desktop\VeryBigShoeCompany\ProcessingLibrary\obj\Debug\ProcessingLibrary.pdb
